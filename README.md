@@ -1,2 +1,4 @@
 # hello-world
-just my first repository
+
+hi, this is my first 'commit changes' test.
+my favorite subject is computer science.
